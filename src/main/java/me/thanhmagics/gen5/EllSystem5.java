@@ -227,6 +227,33 @@ public class EllSystem5 {
         System.out.println("Init Min-Max Successfully! (min=" + min + ",max=" + max + ")");
     }
 
+    private static File getFile2(Scanner scanner) {
+       InputStream input = EllSystem5.class.getClassLoader().getResourceAsStream((fileName.contains(".txt") ? fileName : fileName + ".txt"));
+
+       File tempFile = null;
+       try {
+           tempFile = File.createTempFile(fileName, ".txt");
+       } catch (IOException e) {
+           throw new RuntimeException(e);
+       }
+       tempFile.deleteOnExit();
+       try (FileOutputStream out = new FileOutputStream(tempFile)) {
+           out.write(input.readAllBytes());
+       } catch (NullPointerException e) {
+           file = new File(PATH + "serialized\\" + (fileName.contains(".txt") ? fileName : fileName + ".txt"));
+           if (!file.exists()) {
+               file = getFile1();
+           }
+           return file;
+       } catch (FileNotFoundException e) {
+           throw new RuntimeException(e);
+       } catch (IOException e) {
+           throw new RuntimeException(e);
+       }
+       file = tempFile;
+       return tempFile;
+    }
+
     private static File getFile(Scanner scanner) {
         println(154,"Enter Dataset name...");
         fileName = scanner.next();
@@ -234,37 +261,9 @@ public class EllSystem5 {
         file = getFile1();
         if (!file.exists()) {
             System.out.println("File not found!");
-            getFile(scanner);
+            getFile2(scanner);
         }
         return file;
-//        InputStream input = EllSystem5.class.getClassLoader().getResourceAsStream((fileName.contains(".txt") ? fileName : fileName + ".txt"));
-//
-//        File tempFile = null;
-//        try {
-//            tempFile = File.createTempFile(fileName, ".txt");
-//        } catch (IOException e) {
-//            throw new RuntimeException(e);
-//        }
-//        tempFile.deleteOnExit();
-//        try (FileOutputStream out = new FileOutputStream(tempFile)) {
-//            out.write(input.readAllBytes());
-//        } catch (NullPointerException e) {
-//            file = new File(PATH + "serialized\\" + (fileName.contains(".txt") ? fileName : fileName + ".txt"));
-//            if (!file.exists()) {
-//                file = getFile1();
-////                if (f == null) {
-////                    println(196, "File Not Found!");
-////                    System.exit(1);
-////                }
-//            }
-//            return file;
-//        } catch (FileNotFoundException e) {
-//            throw new RuntimeException(e);
-//        } catch (IOException e) {
-//            throw new RuntimeException(e);
-//        }
-//        file = tempFile;
-//        return tempFile;
     }
 
     private static File getFile1() {
