@@ -18,7 +18,9 @@ jobs:
   build:
 
     runs-on: ubuntu-latest
-
+    strategy:
+      matrix:
+        job-name: [publishing, compling, testing, jar, build, genDocs, downloadDocs]
     steps:
     - uses: actions/checkout@v4
     - name: Set up JDK 17
