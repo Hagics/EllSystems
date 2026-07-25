@@ -1,0 +1,32 @@
+!SUBJECT AND VERB AGREEMENTS
+Chủ Ngữ Số Ít:V-ít
+Chủ Ngữ Số Nhiều:V-nhiều
+Noun Không Đếm Được:V-ít
+Trừu tượng, chất lỏng, một tổng thể:V-ít
+Khi N1 and N2 là một:V-ít
+Phép cộng bằng <H>and</H>:V-ít
+N1 + Giới Từ + N2:Theo N1
+Các noun được nối bằng <H>or, nor, but, either/neither … or/nor, not only … but also</H>:Theo Noun gần nhất
+Các noun được nối bằng <H>as well as, together with, along with, accompanied by</H>:Theo Noun đầu tiên
+Each, every, any, no, many a, one:V-ít
+The number of N(nhiều):V-ít
+A number of N(nhiều):V-nhiều
+Either/neither + of:V-ít
+N do lường, thời gian, tiền, các tựa đề:V-ít
+Sau V/V-ing:V-ít
+Mệnh đề danh từ:V-ít
+Mệnh đề quan hệ:Theo Noun trong mệnh đề chính
+Noun chỉ dân tộc:V-nhiều
+!MODAL VERBS
+could:khả năng xảy ra ở quá khứ
+may/might:khả năng xảy ra ở hiện tại/tương lai nhưng không chắc chắn
+may/might trang trọng hơn:can/could
+may còn dùng để:diễn đạt lời chúc trang trọng
+would:diễn tả lời đề nghị, yêu cầu lịch sự, thói quen trong quá khứ
+shall: giống will nhưng chỉ dùng cho I, We
+had better: dùng để cảnh cáo/ lời khuyên
+Should have V3/ought to have V3:lẽ ra nên (nên làm trong quá khứ nhưng không làm)
+Must have V3:chắc hẳn là đã (dự đoán có căn cứ trong quá khứ)
+Can’t have V3:không thể nào (chắc chắn không diễn ra trong quá khứ)
+Needn’t have V3:lẽ ra không cần (nhưng đã làm)
+Could/May/Might have V3:chỉ những việc có thể đã xảy ra

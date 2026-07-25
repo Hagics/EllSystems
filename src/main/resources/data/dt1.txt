@@ -1,0 +1,19 @@
+nip noun,verb:ngụm rượu nhỏ, cắn/véo nhẹ. ghé qua
+narcotic noun,adjective:thuốc ngủ, ma túy. gây ngủ
+nag noun,verb:người hay cằn nhằn. cằn nhằn
+mould noun,verb:khuôn đúc, nấm mốc. đúc, nặn hình
+motor noun,verb,adjective:động cơ, mô tô. lái xe, đi/tăng nhanh. vận động, cơ giới
+mince noun,verb:thịt băm. băm thịt, đi ẻo lả
+mill noun,verb:nhà máy, cói xay. xay, nghiền
+mileage noun:số dặm đã đi, mức tiêu hao nhiên liệu, lợi ích
+mercury noun:thủy ngân, sao thủy
+
+nip noun,verb
+narcotic noun,adjective
+nag noun,verb
+mould noun,verb
+motor noun,verb,adjective
+mince noun,verb
+mill noun,verb
+mileage noun
+mercury noun

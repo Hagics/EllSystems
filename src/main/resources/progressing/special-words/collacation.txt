@@ -1,0 +1,461 @@
+✔ make a decision          | ✘ do a decision           | 📌 Quyết định → MAKE
+✔ make an effort           | ✘ do an effort            | 📌 Nỗ lực → MAKE
+✔ make a mistake           | ✘ do a mistake            | 📌 Mắc lỗi → MAKE
+✔ make progress            | ✘ do progress             | 📌 Tiến bộ → MAKE (không có 'a')
+✔ make a suggestion        | ✘ do a suggestion         | 📌 Đề xuất → MAKE
+✔ make an appointment      | ✘ do an appointment       | 📌 Đặt lịch hẹn → MAKE
+✔ make a complaint         | ✘ do a complaint          | 📌 Khiếu nại → MAKE
+✔ make a noise             | ✘ do a noise              | 📌 Gây ồn ào → MAKE
+✔ make a speech            | ✘ do a speech             | 📌 Phát biểu → MAKE
+✔ make an excuse           | ✘ do an excuse            | 📌 Đưa ra lý do biện hộ → MAKE
+✔ make a profit            | ✘ do a profit             | 📌 Tạo lợi nhuận → MAKE
+✔ make a loss              | ✘ do a loss               | 📌 Thua lỗ → MAKE a loss
+✔ make an impression       | ✘ do an impression        | 📌 Tạo ấn tượng → MAKE
+✔ make a comment           | ✘ do a comment            | 📌 Đưa ra nhận xét → MAKE
+✔ make a contribution      | ✘ do a contribution       | 📌 Đóng góp → MAKE
+✔ make an investment       | ✘ do an investment        | 📌 Đầu tư → MAKE
+✔ make a promise           | ✘ do a promise            | 📌 Hứa hẹn → MAKE
+✔ make a request           | ✘ do a request            | 📌 Yêu cầu → MAKE
+✔ make an exception        | ✘ do an exception         | 📌 Tạo ngoại lệ → MAKE
+✔ make an announcement     | ✘ do an announcement      | 📌 Thông báo → MAKE
+✔ make a fortune           | ✘ earn a fortune          | 📌 Kiếm bộn tiền → MAKE a fortune
+✔ make sense               | ✘ do sense                | 📌 Có lý → MAKE sense
+✔ make a difference        | ✘ do a difference         | 📌 Tạo sự khác biệt → MAKE
+✔ make a living            | ✘ do a living             | 📌 Kiếm sống → MAKE a living
+✔ make friends             | ✘ do friends              | 📌 Kết bạn → MAKE friends
+✔ make fun of              | ✘ do fun of               | 📌 Chế giễu → MAKE fun of
+✔ make up one's mind       | ✘ do up one's mind        | 📌 Quyết định → MAKE up one's mind
+✔ make matters worse       | ✘ do matters worse        | 📌 Làm tệ hơn → MAKE matters worse
+✔ do homework              | ✘ make homework           | 📌 Làm bài tập → DO
+✔ do research              | ✘ make research           | 📌 Nghiên cứu → DO (không có 'a')
+✔ do damage                | ✘ make damage             | 📌 Gây thiệt hại → DO damage
+✔ do a favour              | ✘ make a favour           | 📌 Giúp một việc → DO a favour
+✔ do business              | ✘ make business           | 📌 Làm ăn kinh doanh → DO
+✔ do exercise              | ✘ make exercise           | 📌 Tập thể dục → DO exercise
+✔ do the washing-up        | ✘ make the washing-up     | 📌 Rửa bát → DO
+✔ do harm                  | ✘ make harm               | 📌 Gây hại → DO harm
+✔ do well in               | ✘ make well in            | 📌 Làm tốt trong → DO well in
+✔ do one's best            | ✘ make one's best         | 📌 Cố gắng hết sức → DO one's best
+✔ do a course              | ✘ make a course           | 📌 Theo học khóa học → DO a course
+✔ do the ironing           | ✘ make the ironing        | 📌 Là/ủi quần áo → DO the ironing
+✔ have a conversation      | ✘ make a conversation     | 📌 Có cuộc trò chuyện → HAVE
+✔ have a good time         | ✘ spend a good time       | 📌 Vui vẻ → HAVE (không dùng spend)
+✔ have a rest              | ✘ do a rest               | 📌 Nghỉ ngơi → HAVE / TAKE a rest
+✔ have a go                | ✘ make a go               | 📌 Thử sức → HAVE a go
+✔ have a row               | ✘ make a row              | 📌 Cãi vã → HAVE a row
+✔ have a shower            | ✘ make a shower           | 📌 Tắm vòi → HAVE a shower
+✔ have a dream             | ✘ make a dream            | 📌 Mơ ước → HAVE a dream
+✔ have a party             | ✘ make a party            | 📌 Tổ chức tiệc → HAVE a party
+✔ have a word with         | ✘ make a word with        | 📌 Nói chuyện riêng → HAVE a word
+✔ have an argument         | ✘ make an argument        | 📌 Tranh luận → HAVE an argument
+✔ have difficulty in       | ✘ make difficulty in      | 📌 Gặp khó khăn → HAVE difficulty in + V-ing
+✔ take a risk              | ✘ make a risk             | 📌 Chấp nhận rủi ro → TAKE
+✔ take an exam             | ✘ make/do an exam         | 📌 Thi → TAKE (Mỹ), SIT (Anh)
+✔ take a photo             | ✘ make a photo            | 📌 Chụp ảnh → TAKE a photo
+✔ take a break             | ✘ make a break            | 📌 Nghỉ giải lao → TAKE a break
+✔ take notice              | ✘ make notice             | 📌 Chú ý đến → TAKE notice
+✔ take part in             | ✘ make part in            | 📌 Tham gia → TAKE part in
+✔ take turns               | ✘ make turns              | 📌 Thay phiên → TAKE turns
+✔ take into account        | ✘ make into account       | 📌 Xem xét, tính đến → TAKE into account
+✔ take action              | ✘ make action             | 📌 Hành động → TAKE action
+✔ take responsibility      | ✘ make responsibility     | 📌 Chịu trách nhiệm → TAKE
+✔ take advantage of        | ✘ make advantage of       | 📌 Tận dụng → TAKE advantage of
+✔ take care of             | ✘ make care of            | 📌 Chăm sóc → TAKE care of
+✔ take place               | ✘ make place              | 📌 Xảy ra → TAKE place
+✔ take a stand             | ✘ make a stand            | 📌 Giữ lập trường → TAKE a stand
+✔ raise awareness          | ✘ rise awareness          | 📌 raise = nâng cao (ngoại động); rise = tự tăng (nội động)
+✔ raise a question         | ✘ rise a question         | 📌 Đặt ra câu hỏi → RAISE
+✔ raise funds              | ✘ rise funds              | 📌 Quyên góp tiền → RAISE
+✔ raise children           | ✘ rise children           | 📌 Nuôi dạy con → RAISE
+✔ raise living standards   | ✘ rise living standards   | 📌 Nâng cao mức sống → RAISE
+✔ commit a crime           | ✘ make a crime            | 📌 Phạm tội → COMMIT
+✔ commit suicide           | ✘ make suicide            | 📌 Tự tử → COMMIT
+✔ commit to doing          | ✘ commit doing            | 📌 Cam kết → COMMIT TO + V-ing
+✔ pay attention to         | ✘ give attention to       | 📌 Chú ý → PAY attention to
+✔ pay a visit              | ✘ make a visit            | 📌 Thăm ai → PAY a visit
+✔ pay a compliment         | ✘ make a compliment       | 📌 Khen ngợi → PAY a compliment
+✔ meet a deadline          | ✘ catch a deadline        | 📌 Hoàn thành đúng hạn → MEET
+✔ meet expectations        | ✘ reach expectations      | 📌 Đáp ứng kỳ vọng → MEET
+✔ set a record             | ✘ make a record           | 📌 Lập kỷ lục → SET
+✔ set a goal               | ✘ make a goal             | 📌 Đặt ra mục tiêu → SET
+✔ set an example           | ✘ make an example         | 📌 Làm gương → SET an example
+✔ set a precedent          | ✘ make a precedent        | 📌 Tạo tiền lệ → SET
+✔ earn a living            | ✘ win a living            | 📌 Kiếm sống → EARN a living
+✔ earn respect             | ✘ win respect             | 📌 Giành được sự tôn trọng → EARN
+✔ win a prize              | ✘ earn a prize            | 📌 Đoạt giải → WIN
+✔ win a competition        | ✘ earn a competition      | 📌 Thắng cuộc thi → WIN
+✔ gain experience          | ✘ earn experience         | 📌 Tích lũy kinh nghiệm → GAIN
+✔ gain access to           | ✘ earn access to          | 📌 Có quyền truy cập → GAIN
+✔ gain confidence          | ✘ build confidence        | 📌 Cả hai đúng; gain phổ biến hơn
+✔ miss an opportunity      | ✘ lose an opportunity     | 📌 Bỏ lỡ cơ hội → MISS
+✔ miss a deadline          | ✘ lose a deadline         | 📌 Trễ hạn → MISS a deadline
+✔ lose touch with          | ✘ miss touch with         | 📌 Mất liên lạc → LOSE touch with
+✔ lose one's temper        | ✘ lose one's patience     | 📌 Mất bình tĩnh (nổi nóng) → lose temper
+✔ keep a promise           | ✘ hold a promise          | 📌 Giữ lời hứa → KEEP
+✔ keep in touch            | ✘ stay in touch           | 📌 Cả hai đúng; KEEP phổ biến hơn
+✔ keep an eye on           | ✘ make an eye on          | 📌 Trông chừng → KEEP an eye on
+✔ keep a secret            | ✘ hold a secret           | 📌 Giữ bí mật → KEEP a secret
+✔ hold a meeting           | ✘ make a meeting          | 📌 Tổ chức cuộc họp → HOLD
+✔ hold an event            | ✘ make an event           | 📌 Tổ chức sự kiện → HOLD/ORGANIZE
+✔ hold sb accountable      | ✘ make sb accountable     | 📌 Quy trách nhiệm → HOLD accountable
+✔ run a business           | ✘ make a business         | 📌 Điều hành doanh nghiệp → RUN
+✔ run a risk               | ✘ make a risk             | 📌 Chấp nhận rủi ro → RUN a risk
+✔ solve a problem          | ✘ resolve a problem       | 📌 Cả hai đúng; solve phổ biến; resolve = giải quyết dứt điểm
+✔ face a challenge         | ✘ confront a challenge    | 📌 Cả hai đúng; FACE thông dụng hơn
+✔ play a trick on          | ✘ make a trick on         | 📌 Đánh lừa ai → PLAY a trick on
+✔ reach an agreement       | ✘ make an agreement       | 📌 Đạt được thỏa thuận → REACH
+✔ reach a conclusion       | ✘ make a conclusion       | 📌 Đi đến kết luận → REACH / COME TO
+✔ draw a conclusion        | ✘ make a conclusion       | 📌 Rút ra kết luận → DRAW
+✔ draw attention to        | ✘ pay attention to        | 📌 draw = thu hút; pay = dành sự chú ý
+✔ lay the foundation for   | ✘ make the foundation for | 📌 Đặt nền tảng → LAY the foundation
+✔ shed light on            | ✘ throw light on          | 📌 Cả hai đúng; shed light on phổ biến hơn
+✔ give rise to             | ✘ lead to                 | 📌 Cả hai đúng; give rise to trang trọng hơn
+✔ bring about change       | ✘ make change             | 📌 Tạo ra thay đổi → BRING ABOUT
+✔ stem from                | ✘ come from               | 📌 Xuất phát từ nguyên nhân → STEM FROM
+✔ give way to              | ✘ be replaced by          | 📌 Nhường chỗ cho → give way TO
+✔ break a habit            | ✘ stop a habit            | 📌 Từ bỏ thói quen → BREAK
+✔ break a record           | ✘ set a record            | 📌 Phá kỷ lục → BREAK; lập kỷ lục → SET
+✔ break the law            | ✘ violate the law         | 📌 Cả hai đúng; BREAK phổ biến hơn
+✔ break a promise          | ✘ lose a promise          | 📌 Thất hứa → BREAK a promise
+✔ launch a campaign        | ✘ start a campaign        | 📌 Cả hai đúng; LAUNCH trang trọng hơn
+✔ launch a product         | ✘ release a product       | 📌 Cả hai đúng; launch = ra mắt chính thức
+✔ pursue a career          | ✘ follow a career         | 📌 Theo đuổi sự nghiệp → PURSUE
+✔ pursue a goal            | ✘ follow a goal           | 📌 Theo đuổi mục tiêu → PURSUE
+✔ boost the economy        | ✘ improve the economy     | 📌 Kích thích kinh tế → BOOST
+✔ boost confidence         | ✘ improve confidence      | 📌 Tăng sự tự tin → BOOST
+✔ implement a policy       | ✘ apply a policy          | 📌 Thực thi chính sách → IMPLEMENT
+✔ impose a tax             | ✘ apply a tax             | 📌 Đánh thuế → IMPOSE
+✔ impose sanctions         | ✘ apply sanctions         | 📌 Áp đặt trừng phạt → IMPOSE
+✔ pass legislation         | ✘ make legislation        | 📌 Thông qua luật → PASS
+✔ violate human rights     | ✘ break human rights      | 📌 Vi phạm nhân quyền → VIOLATE
+✔ address an issue         | ✘ solve an issue          | 📌 Giải quyết vấn đề (formal) → ADDRESS
+✔ tackle poverty           | ✘ fight poverty           | 📌 Cả hai đúng; tackle phổ biến hơn trong học thuật
+✔ alleviate poverty        | ✘ reduce poverty          | 📌 Cả hai đúng; alleviate = giảm nhẹ (dần dần)
+✔ eradicate disease        | ✘ eliminate disease       | 📌 Cả hai đúng; eradicate = xóa sổ hoàn toàn
+✔ conduct research         | ✘ do research             | 📌 Cả hai đúng; conduct trang trọng hơn trong học thuật
+✔ come into force          | ✘ become effective        | 📌 Cả hai đúng; come into force = có hiệu lực (luật)
+✔ take effect              | ✘ become effective        | 📌 Có hiệu lực → TAKE effect
+✔ pose a threat to         | ✘ create a threat to      | 📌 Đặt ra mối đe dọa → POSE a threat
+✔ take measures            | ✘ take steps              | 📌 Cả hai đúng; measures = biện phách chính sách
+✔ spread awareness         | ✘ raise awareness         | 📌 Lan rộng nhận thức → SPREAD; Nâng cao → RAISE
+✔ bear in mind             | ✘ keep in mind            | 📌 Cả hai đúng; BEAR IN MIND trang trọng hơn
+✔ take into consideration  | ✘ take into account       | 📌 Cả hai đúng; hoán đổi được
+✔ call for                 | ✘ ask for                 | 📌 Kêu gọi, đòi hỏi → CALL FOR (trang trọng)
+✔ cut costs                | ✘ lower costs             | 📌 Cắt giảm chi phí → CUT costs
+✔ accumulate wealth        | ✘ gain wealth             | 📌 Tích lũy tài sản → ACCUMULATE
+✔ responsible for          | ✘ responsible of          | 📌 Chịu trách nhiệm về → FOR
+✔ capable of               | ✘ capable to              | 📌 Có khả năng → OF + V-ing
+✔ interested in            | ✘ interested about        | 📌 Quan tâm đến → IN
+✔ worried about            | ✘ worried for             | 📌 Lo lắng về → ABOUT
+✔ proud of                 | ✘ proud about             | 📌 Tự hào về → OF
+✔ aware of                 | ✘ aware about             | 📌 Nhận thức về → OF
+✔ fond of                  | ✘ fond with               | 📌 Yêu thích → OF
+✔ different from           | ✘ different to/than       | 📌 Khác với → FROM (văn viết chuẩn)
+✔ similar to               | ✘ similar with            | 📌 Tương tự → TO
+✔ jealous of               | ✘ jealous about           | 📌 Ghen tị với → OF
+✔ guilty of                | ✘ guilty for              | 📌 Có tội về → OF
+✔ innocent of              | ✘ innocent from           | 📌 Vô tội → OF a crime
+✔ excited about            | ✘ excited for             | 📌 Hứng khởi về → ABOUT
+✔ disappointed with/at     | ✘ disappointed about      | 📌 Thất vọng → WITH sb / AT sth
+✔ satisfied with           | ✘ satisfied of            | 📌 Hài lòng với → WITH
+✔ engaged in               | ✘ engaged with            | 📌 Tham gia vào (hoạt động) → IN
+✔ engaged to               | ✘ engaged with            | 📌 Đính hôn với (người) → TO
+✔ married to               | ✘ married with            | 📌 Kết hôn với → MARRIED TO
+✔ devoted to               | ✘ devoted for             | 📌 Cống hiến cho → TO
+✔ involved in              | ✘ involved with           | 📌 Dính líu đến (sự việc) → IN
+✔ keen on                  | ✘ keen about              | 📌 Say mê → ON
+✔ based on                 | ✘ based in/at             | 📌 Dựa trên → ON
+✔ suitable for             | ✘ suitable to             | 📌 Phù hợp với → FOR
+✔ harmful to               | ✘ harmful for             | 📌 Có hại cho (ai/cái gì) → TO
+✔ beneficial to            | ✘ beneficial for          | 📌 Có lợi cho → TO
+✔ essential to/for         | ✘ essential in            | 📌 Thiết yếu → TO (liên kết) / FOR (mục đích)
+✔ relevant to              | ✘ relevant for            | 📌 Liên quan đến → TO
+✔ addicted to              | ✘ addicted with           | 📌 Nghiện → ADDICTED TO
+✔ allergic to              | ✘ allergic of             | 📌 Dị ứng với → ALLERGIC TO
+✔ excellent at             | ✘ excellent in            | 📌 Xuất sắc về → EXCELLENT AT
+✔ skilled at/in            | ✘ skilled with            | 📌 Có kỹ năng về → AT/IN
+✔ connected to/with        | ✘ connected of            | 📌 Kết nối với → TO / WITH
+✔ associated with          | ✘ associated to           | 📌 Liên quan đến → ASSOCIATED WITH
+✔ consistent with          | ✘ consistent to           | 📌 Nhất quán với → WITH
+✔ absent from              | ✘ absent in               | 📌 Vắng mặt → ABSENT FROM
+✔ short of                 | ✘ short in                | 📌 Thiếu → SHORT OF
+✔ full of                  | ✘ full with               | 📌 Đầy → FULL OF
+✔ sure of/about            | ✘ sure for                | 📌 Chắc chắn → SURE OF / ABOUT
+✔ confident about/in       | ✘ confident of            | 📌 Tự tin về → ABOUT / IN
+✔ tired of                 | ✘ tired from              | 📌 Chán ngán → TIRED OF (khác với tired from = mệt vì)
+✔ bored with               | ✘ bored of                | 📌 Chán với → BORED WITH (British: bored of cũng chấp)
+✔ angry with/at            | ✘ angry to                | 📌 Giận → angry WITH sb / AT sth
+✔ annoyed with/at          | ✘ annoyed to              | 📌 Bực bội → WITH sb / AT sth
+✔ frightened of/by         | ✘ frightened from         | 📌 Sợ → OF (nguồn gốc) / BY (tác nhân)
+✔ scared of                | ✘ scared from             | 📌 Sợ → SCARED OF
+✔ critical of              | ✘ critical about          | 📌 Chỉ trích → CRITICAL OF
+✔ typical of               | ✘ typical for             | 📌 Điển hình của → TYPICAL OF
+✔ symptomatic of           | ✘ symptomatic for         | 📌 Triệu chứng của → SYMPTOMATIC OF
+✔ envious of               | ✘ envious about           | 📌 Ghen tị → ENVIOUS OF
+✔ conscious of             | ✘ conscious about         | 📌 Có ý thức về → CONSCIOUS OF
+✔ consist of               | ✘ consist in              | 📌 Bao gồm (thành phần) → OF
+✔ result in                | ✘ result to               | 📌 Dẫn đến kết quả → IN
+✔ result from              | ✘ result of               | 📌 Xuất phát từ nguyên nhân → FROM
+✔ contribute to            | ✘ contribute in           | 📌 Đóng góp vào → TO
+✔ rely on                  | ✘ rely to                 | 📌 Phụ thuộc, tin tưởng → ON
+✔ concentrate on           | ✘ concentrate in          | 📌 Tập trung → ON
+✔ insist on                | ✘ insist in               | 📌 Khăng khăng → ON + V-ing
+✔ specialize in            | ✘ specialize on           | 📌 Chuyên về → IN
+✔ invest in                | ✘ invest on               | 📌 Đầu tư vào → IN
+✔ apologize to sb for sth  | ✘ apologize sb for sth    | 📌 Xin lỗi → TO (người) FOR (lý do)
+✔ complain about/of        | ✘ complain for            | 📌 Phàn nàn về → ABOUT / OF
+✔ object to                | ✘ object against          | 📌 Phản đối → TO + V-ing
+✔ search for               | ✘ search to               | 📌 Tìm kiếm → SEARCH FOR
+✔ hope for                 | ✘ hope to sth             | 📌 Hi vọng về → HOPE FOR sth
+✔ hope to do               | ✘ hope doing              | 📌 Hi vọng làm gì → HOPE TO + infinitive
+✔ accuse sb of             | ✘ accuse sb for           | 📌 Buộc tội ai về → OF
+✔ suspect sb of            | ✘ suspect sb for          | 📌 Nghi ngờ ai về → OF
+✔ blame sb for             | ✘ blame sb of             | 📌 Đổ lỗi cho ai → FOR
+✔ congratulate sb on       | ✘ congratulate sb for     | 📌 Chúc mừng ai → ON
+✔ thank sb for             | ✘ thank sb of             | 📌 Cảm ơn ai → FOR
+✔ warn sb about/of         | ✘ warn sb for             | 📌 Cảnh báo ai → ABOUT / OF
+✔ prevent sb from          | ✘ prevent sb to           | 📌 Ngăn ai → PREVENT sb FROM + V-ing
+✔ stop sb from             | ✘ stop sb to              | 📌 Ngăn ai → STOP sb FROM + V-ing
+✔ prohibit sb from         | ✘ prohibit sb to          | 📌 Cấm → PROHIBIT FROM + V-ing
+✔ protect sb from          | ✘ protect sb against      | 📌 Bảo vệ khỏi → FROM (thông dụng)
+✔ suffer from              | ✘ suffer of               | 📌 Mắc (bệnh)/chịu đựng → SUFFER FROM
+✔ recover from             | ✘ recover of              | 📌 Hồi phục → RECOVER FROM
+✔ graduate from            | ✘ graduate in             | 📌 Tốt nghiệp → GRADUATE FROM (school)
+✔ benefit from             | ✘ benefit of              | 📌 Hưởng lợi từ → BENEFIT FROM
+✔ abstain from             | ✘ abstain of              | 📌 Kiêng, tránh → ABSTAIN FROM
+✔ refrain from             | ✘ refrain of              | 📌 Kiềm chế không → REFRAIN FROM + V-ing
+✔ differ from              | ✘ differ to               | 📌 Khác với → DIFFER FROM
+✔ derive from              | ✘ derive of               | 📌 Bắt nguồn từ → DERIVE FROM
+✔ emerge from              | ✘ emerge of               | 📌 Xuất hiện từ → EMERGE FROM
+✔ translate into           | ✘ translate to            | 📌 Dịch sang → TRANSLATE INTO
+✔ transform into           | ✘ transform to            | 📌 Biến đổi thành → TRANSFORM INTO
+✔ divide into              | ✘ divide to               | 📌 Chia thành → DIVIDE INTO
+✔ invest in                | ✘ invest on               | 📌 Đầu tư vào → IN
+✔ participate in           | ✘ participate at          | 📌 Tham gia → PARTICIPATE IN
+✔ interfere with           | ✘ interfere in            | 📌 Cản trở → INTERFERE WITH
+✔ interfere in             | ✘ interfere with          | 📌 Can thiệp vào (chuyện người khác) → INTERFERE IN
+✔ point out                | ✘ point to                | 📌 Chỉ ra (sự thật) → POINT OUT
+✔ point to/at              | ✘ point out               | 📌 Chỉ (bằng tay) → POINT TO/AT
+✔ deeply concerned         | ✘ highly concerned        | 📌 Lo ngại sâu sắc → DEEPLY
+✔ deeply rooted            | ✘ strongly rooted         | 📌 Ăn sâu vào → DEEPLY rooted
+✔ deeply divided           | ✘ heavily divided         | 📌 Chia rẽ sâu sắc → DEEPLY divided
+✔ highly recommended       | ✘ strongly recommended    | 📌 HIGHLY recommended (với recommended)
+✔ highly educated          | ✘ well educated           | 📌 Cả hai đúng; highly educated phổ biến hơn
+✔ highly skilled           | ✘ very skilled            | 📌 Rất có kỹ năng → HIGHLY skilled
+✔ highly competitive       | ✘ very competitive        | 📌 Cạnh tranh khốc liệt → HIGHLY competitive
+✔ strongly suggest         | ✘ highly suggest          | 📌 Đề nghị mạnh → STRONGLY
+✔ strongly believe         | ✘ highly believe          | 📌 Tin tưởng mạnh → STRONGLY
+✔ strongly oppose          | ✘ highly oppose           | 📌 Phản đối mạnh → STRONGLY
+✔ widely used              | ✘ broadly used            | 📌 Được sử dụng rộng rãi → WIDELY
+✔ widely known             | ✘ broadly known           | 📌 Được biết đến rộng → WIDELY known
+✔ widely accepted          | ✘ broadly accepted        | 📌 Được chấp nhận rộng rãi → WIDELY
+✔ widely available         | ✘ broadly available       | 📌 Sẵn có rộng rãi → WIDELY available
+✔ closely related          | ✘ nearly related          | 📌 Liên quan chặt chẽ → CLOSELY
+✔ closely linked           | ✘ tightly linked          | 📌 Liên kết chặt → CLOSELY linked
+✔ closely monitored        | ✘ tightly monitored       | 📌 Được theo dõi sát → CLOSELY
+✔ perfectly clear          | ✘ totally clear           | 📌 Hoàn toàn rõ ràng → PERFECTLY
+✔ absolutely necessary     | ✘ totally necessary       | 📌 Hoàn toàn cần thiết → ABSOLUTELY
+✔ absolutely certain       | ✘ totally certain         | 📌 Chắc chắn tuyệt đối → ABSOLUTELY
+✔ heavily influenced       | ✘ strongly influenced     | 📌 Bị ảnh hưởng mạnh → HEAVILY
+✔ heavily involved         | ✘ deeply involved         | 📌 Tham gia sâu → HEAVILY involved
+✔ heavily dependent on     | ✘ strongly dependent on   | 📌 Phụ thuộc nhiều → HEAVILY dependent
+✔ bitterly disappointed    | ✘ deeply disappointed     | 📌 Cực kỳ thất vọng → BITTERLY
+✔ bitterly cold            | ✘ extremely cold          | 📌 Rét cắt da → BITTERLY cold
+✔ utterly exhausted        | ✘ totally exhausted       | 📌 Hoàn toàn kiệt sức → UTTERLY
+✔ utterly confused         | ✘ completely confused     | 📌 Hoàn toàn bối rối → UTTERLY
+✔ environmentally friendly | ✘ environment friendly    | 📌 Thân thiện môi trường → environmentally (adv)
+✔ economically viable      | ✘ economic viable         | 📌 Khả thi kinh tế → economically (adv)
+✔ socially responsible     | ✘ social responsible      | 📌 Có trách nhiệm xã hội → socially (adv)
+✔ technically advanced     | ✘ technical advanced      | 📌 Tiên tiến kỹ thuật → technically (adv)
+✔ financially stable       | ✘ financial stable        | 📌 Ổn định tài chính → financially (adv)
+✔ preserve biodiversity    | ✘ protect biodiversity    | 📌 Bảo tồn đa dạng sinh học → PRESERVE
+✔ reduce carbon emissions  | ✘ lower carbon emissions  | 📌 Giảm khí thải → REDUCE
+✔ address environmental issues | ✘ solve environmental issues | 📌 Giải quyết vấn đề → ADDRESS
+✔ pose a threat to         | ✘ create a threat to      | 📌 Đặt ra mối đe dọa → POSE a threat
+✔ take measures to         | ✘ take steps to           | 📌 Cả hai đúng; measures = biện pháp chính sách
+✔ bridge the gap           | ✘ close the gap           | 📌 Cả hai đúng; bridge the gap phổ biến hơn
+✔ sustainable development  | ✘ stable development      | 📌 Phát triển bền vững → SUSTAINABLE
+✔ water scarcity           | ✘ water shortage          | 📌 Cả hai đúng; scarcity = khan hiếm cấu trúc
+✔ deforestation rate       | ✘ deforestation level     | 📌 Tỷ lệ phá rừng → RATE
+✔ greenhouse gas emissions | ✘ greenhouse gas release  | 📌 Phát thải khí nhà kính → EMISSIONS
+✔ endangered species       | ✘ threatened species      | 📌 Loài nguy cấp → ENDANGERED species
+✔ population growth        | ✘ population increase     | 📌 Tăng trưởng dân số → POPULATION GROWTH
+✔ urban sprawl             | ✘ urban expansion         | 📌 Đô thị hóa tràn lan → URBAN SPRAWL
+✔ standard of living       | ✘ level of living         | 📌 Mức sống → STANDARD of living
+✔ human trafficking        | ✘ human smuggling         | 📌 Buôn bán người → TRAFFICKING (smuggling = buôn lậu)
+✔ attend school/university | ✘ go to school            | 📌 Attend = trang trọng; go to = thường ngày
+✔ pursue higher education  | ✘ follow higher education | 📌 Theo đuổi học cao hơn → PURSUE
+✔ acquire knowledge        | ✘ get knowledge           | 📌 Thu nhận kiến thức → ACQUIRE
+✔ gain qualifications      | ✘ get qualifications      | 📌 Đạt được bằng cấp → GAIN
+✔ broaden one's horizons   | ✘ expand one's horizons   | 📌 Mở rộng tầm nhìn → BROADEN (phổ biến nhất)
+✔ graduate from            | ✘ graduate in             | 📌 Tốt nghiệp từ trường → graduate FROM
+✔ critical thinking        | ✘ creative thinking       | 📌 Tư duy phản biện → CRITICAL (khác creative)
+✔ academic performance     | ✘ school performance      | 📌 Thành tích học tập → ACADEMIC (formal)
+✔ scholarship holder       | ✘ scholarship owner       | 📌 Người nhận học bổng → HOLDER
+✔ distance learning        | ✘ remote learning         | 📌 Học từ xa → distance learning (học thuật)
+✔ vocational training      | ✘ professional training   | 📌 Đào tạo nghề → VOCATIONAL
+✔ boarding school          | ✘ sleeping school         | 📌 Trường nội trú → BOARDING school
+✔ compulsory education     | ✘ mandatory education     | 📌 Cả hai đúng; compulsory phổ biến hơn
+✔ literacy rate            | ✘ reading rate            | 📌 Tỷ lệ biết chữ → LITERACY rate
+✔ dropout rate             | ✘ leaving rate            | 📌 Tỷ lệ bỏ học → DROPOUT rate
+✔ tuition fees             | ✘ school fees             | 📌 Học phí → TUITION fees (đại học)
+✔ school fees              | ✘ tuition fees            | 📌 Học phí (phổ thông) → SCHOOL fees
+✔ learn by heart           | ✘ learn by memory         | 📌 Học thuộc lòng → LEARN BY HEART
+✔ rote learning            | ✘ memory learning         | 📌 Học vẹt → ROTE learning
+✔ peer pressure            | ✘ friend pressure         | 📌 Áp lực bạn bè → PEER pressure
+✔ apply for a job          | ✘ apply to a job          | 📌 Nộp đơn xin việc → apply FOR
+✔ be made redundant        | ✘ be fired                | 📌 Bị sa thải (cắt giảm) → be made REDUNDANT
+✔ be dismissed             | ✘ be fired                | 📌 Bị sa thải → dismissed (formal); fired (informal)
+✔ career prospects         | ✘ career opportunities    | 📌 Triển vọng nghề nghiệp → PROSPECTS
+✔ promote economic growth  | ✘ improve economic growth | 📌 Thúc đẩy tăng trưởng → PROMOTE
+✔ work overtime            | ✘ work extra time         | 📌 Làm ngoài giờ → OVERTIME
+✔ resign from              | ✘ resign to               | 📌 Từ chức → resign FROM (a position)
+✔ take on responsibilities | ✘ take responsibilities   | 📌 Đảm nhận trách nhiệm → TAKE ON
+✔ draw up a plan           | ✘ make a plan             | 📌 Lập kế hoạch → DRAW UP (formal)
+✔ meet a target            | ✘ reach a target          | 📌 Cả hai đúng; MEET a target phổ biến hơn (kinh doanh)
+✔ market research          | ✘ marketing research      | 📌 Nghiên cứu thị trường → MARKET research
+✔ business partner         | ✘ business colleague      | 📌 Đối tác kinh doanh → PARTNER
+✔ business venture         | ✘ business project        | 📌 Dự án kinh doanh mới → VENTURE
+✔ profit margin            | ✘ profit level            | 📌 Biên lợi nhuận → PROFIT MARGIN
+✔ competitive advantage    | ✘ competition advantage   | 📌 Lợi thế cạnh tranh → COMPETITIVE advantage
+✔ supply chain             | ✘ supply line             | 📌 Chuỗi cung ứng → SUPPLY CHAIN
+✔ cash flow                | ✘ money flow              | 📌 Dòng tiền → CASH FLOW
+✔ brand awareness          | ✘ brand recognition       | 📌 Cả hai đúng; awareness = nhận biết; recognition = nhận ra
+✔ target audience          | ✘ target customer         | 📌 Đối tượng mục tiêu → TARGET AUDIENCE
+✔ consumer behaviour       | ✘ customer behaviour      | 📌 Hành vi người tiêu dùng → CONSUMER behaviour
+✔ job satisfaction         | ✘ work satisfaction       | 📌 Sự hài lòng trong công việc → JOB satisfaction
+✔ working conditions       | ✘ work conditions         | 📌 Điều kiện làm việc → WORKING conditions
+✔ pay rise                 | ✘ salary rise             | 📌 Tăng lương → PAY RISE (Anh); pay raise (Mỹ)
+✔ salary package           | ✘ salary deal             | 📌 Gói lương → SALARY PACKAGE
+✔ performance review       | ✘ performance check       | 📌 Đánh giá hiệu suất → PERFORMANCE REVIEW
+✔ parental leave           | ✘ maternity leave         | 📌 Nghỉ thai sản (cả bố/mẹ) → PARENTAL; chỉ mẹ → MATERNITY
+✔ on a regular basis       | ✘ in a regular basis      | 📌 Thường xuyên → ON a regular basis
+✔ in the long run          | ✘ in a long run           | 📌 Về lâu dài → IN the long run
+✔ in the short term        | ✘ in a short term         | 📌 Trong ngắn hạn → IN the short term
+✔ under pressure           | ✘ in pressure             | 📌 Dưới áp lực → UNDER pressure
+✔ under control            | ✘ in control              | 📌 Được kiểm soát → UNDER; in control = đang kiểm soát
+✔ in demand                | ✘ on demand               | 📌 Được ưa chuộng → IN demand; on demand = theo yêu cầu
+✔ in danger                | ✘ under danger            | 📌 Trong nguy hiểm → IN danger
+✔ in debt                  | ✘ under debt              | 📌 Trong nợ nần → IN debt
+✔ at risk                  | ✘ in risk                 | 📌 Có nguy cơ → AT risk
+✔ at stake                 | ✘ in stake                | 📌 Đang bị đặt cược/nguy hiểm → AT stake
+✔ on the rise              | ✘ in the rise             | 📌 Đang tăng → ON the rise
+✔ on the decline           | ✘ in the decline          | 📌 Đang giảm → ON the decline
+✔ by accident              | ✘ with accident           | 📌 Vô tình → BY accident
+✔ on purpose               | ✘ with purpose            | 📌 Cố tình → ON purpose
+✔ by chance                | ✘ in chance               | 📌 Tình cờ → BY chance
+✔ in general               | ✘ on general              | 📌 Nói chung → IN general
+✔ in particular            | ✘ on particular           | 📌 Đặc biệt là → IN particular
+✔ in addition to           | ✘ in addition of          | 📌 Thêm vào đó → IN addition TO
+✔ in contrast to/with      | ✘ in contrast of          | 📌 Trái lại → IN contrast TO/WITH
+✔ in terms of              | ✘ in term of              | 📌 Xét về mặt → IN TERMS (phải có 's')
+✔ regardless of            | ✘ regardless to           | 📌 Bất kể → REGARDLESS OF
+✔ in favour of             | ✘ in favour for           | 📌 Ủng hộ → IN FAVOUR OF
+✔ in spite of              | ✘ in spite that           | 📌 Mặc dù → IN SPITE OF + noun/V-ing
+✔ on behalf of             | ✘ in behalf of            | 📌 Thay mặt cho → ON BEHALF OF
+✔ at the expense of        | ✘ at the cost of          | 📌 Cả hai đúng; at the expense of = với cái giá của
+✔ out of date              | ✘ out of time             | 📌 Lỗi thời → OUT OF DATE
+✔ up to date               | ✘ up to time              | 📌 Hiện đại, cập nhật → UP TO DATE
+✔ on a large scale         | ✘ in a large scale        | 📌 Quy mô lớn → ON a large scale
+✔ on average               | ✘ in average              | 📌 Trung bình → ON average
+✔ in theory                | ✘ on theory               | 📌 Trên lý thuyết → IN theory
+✔ in practice              | ✘ on practice             | 📌 Trong thực tế → IN practice
+✔ at the moment            | ✘ in the moment           | 📌 Vào lúc này → AT the moment
+✔ in the end               | ✘ at the end              | 📌 Cuối cùng (= finally) → IN the end; AT the end = ở cuối (vị trí)
+✔ by the time              | ✘ at the time             | 📌 Vào lúc (khi) → BY the time + clause
+✔ without exception        | ✘ with no exception       | 📌 Không có ngoại lệ → WITHOUT exception
+✔ beyond doubt             | ✘ without doubt           | 📌 Cả hai đúng; BEYOND doubt = không còn nghi ngờ gì
+✔ under no circumstances   | ✘ in no circumstances     | 📌 Trong bất kỳ hoàn cảnh nào → UNDER no circumstances
+✔ to a certain extent      | ✘ to a certain degree     | 📌 Cả hai đúng; ở một mức độ nhất định
+✔ as a result of           | ✘ as a result from        | 📌 Là kết quả của → AS A RESULT OF
+✔ in response to           | ✘ as response to          | 📌 Để phản hồi → IN RESPONSE TO
+✔ despite / in spite of + N/V-ing | ✘ despite of + N       | 📌 despite KHÔNG cần 'of'
+✔ although / even though + clause | ✘ despite + clause     | 📌 despite + noun; although + clause
+✔ since = bởi vì (formal)        | ✘ since = từ khi       | 📌 since có 2 nghĩa: nguyên nhân & thời gian
+✔ while = trong khi (đồng thời)  | ✘ while = although     | 📌 while cũng = 'mặc dù' nhưng ít dùng hơn
+✔ unless = if...not              | ✘ until = unless       | 📌 unless ≠ until; until = cho đến khi
+✔ as long as = miễn là          | ✘ as far as = miễn là  | 📌 as far as I know = theo tôi biết
+✔ so that + clause               | ✘ so as to + clause    | 📌 so that + S + V; so as to + infinitive
+✔ provided that = miễn là        | ✘ providing = nếu được | 📌 provided/providing (that) = điều kiện
+✔ yet = nhưng / vẫn              | ✘ yet = already        | 📌 yet = still/but; với phủ định/nghi vấn = chưa
+✔ for = bởi vì (formal, viết)   | ✘ for = để             | 📌 for = because (văn viết trang trọng)
+✔ nevertheless = tuy nhiên       | ✘ nonetheless = tuy nhiên | 📌 Cả hai đúng và hoán đổi được
+✔ however = tuy nhiên (đầu câu)  | ✘ but = however        | 📌 however + dấu phẩy; but không có dấu phẩy sau
+✔ furthermore = hơn nữa          | ✘ moreover = furthermore| 📌 Cả hai đúng; thêm ý bổ sung
+✔ therefore = vì vậy             | ✘ so = therefore       | 📌 therefore trang trọng hơn so
+✔ consequently = do đó           | ✘ as a result = consequently | 📌 Cả hai đúng
+✔ otherwise = nếu không          | ✘ elsewhere = otherwise | 📌 otherwise ≠ elsewhere (= ở nơi khác)
+✔ whereas = trong khi đó (đối lập) | ✘ while = whereas    | 📌 whereas nhấn mạnh đối lập hơn
+✔ in order to + infinitive       | ✘ in order for + clause | 📌 in order to + V; in order for + sb to V
+✔ owing to + noun                | ✘ owing to + clause    | 📌 owing to = do (nguyên nhân) + NOUN
+✔ due to + noun                  | ✘ due to + clause      | 📌 due to + NOUN (không có S+V)
+✔ traffic congestion       | ✘ traffic jam              | 📌 Cả hai đúng; congestion = tắc nghẽn (diện rộng)
+✔ traffic accident         | ✘ road accident            | 📌 Cả hai đúng; road accident thường dùng hơn ở Anh
+✔ public transport         | ✘ public transportation    | 📌 Cả hai đúng; transport (Anh), transportation (Mỹ)
+✔ health care              | ✘ medical care             | 📌 Cả hai đúng; health care = hệ thống; medical care = chăm sóc y tế
+✔ medical treatment        | ✘ health treatment         | 📌 Điều trị bệnh → MEDICAL treatment
+✔ social media             | ✘ social network           | 📌 Social media = mạng xã hội (TT đại chúng); social network = cấu trúc mạng lưới
+✔ information technology   | ✘ computer technology      | 📌 Công nghệ thông tin → IT (abbr.)
+✔ artificial intelligence  | ✘ machine intelligence     | 📌 Trí tuệ nhân tạo → ARTIFICIAL intelligence
+✔ economic development     | ✘ economical development   | 📌 Phát triển kinh tế → ECONOMIC (không phải economical)
+✔ political stability      | ✘ political peace          | 📌 Ổn định chính trị → POLITICAL STABILITY
+✔ cultural exchange        | ✘ culture exchange         | 📌 Giao lưu văn hóa → CULTURAL exchange
+✔ cultural heritage        | ✘ culture heritage         | 📌 Di sản văn hóa → CULTURAL heritage
+✔ social welfare           | ✘ social benefit           | 📌 Phúc lợi xã hội → WELFARE
+✔ peer pressure            | ✘ friend pressure          | 📌 Áp lực bạn bè → PEER pressure
+✔ role model               | ✘ example model            | 📌 Hình mẫu, gương sáng → ROLE MODEL
+✔ generation gap           | ✘ age gap                  | 📌 Khoảng cách thế hệ → GENERATION gap
+✔ birth rate               | ✘ birth level              | 📌 Tỷ lệ sinh → BIRTH RATE
+✔ death rate               | ✘ death level              | 📌 Tỷ lệ tử vong → DEATH RATE
+✔ unemployment rate        | ✘ unemployment level       | 📌 Tỷ lệ thất nghiệp → RATE
+✔ crime rate               | ✘ crime level              | 📌 Tỷ lệ tội phạm → CRIME RATE
+✔ interest rate            | ✘ interest level           | 📌 Lãi suất → INTEREST RATE
+✔ exchange rate            | ✘ currency rate            | 📌 Tỷ giá hối đoái → EXCHANGE RATE
+✔ a surge in               | ✘ a surge of               | 📌 Sự tăng đột biến → A SURGE IN + noun
+✔ a decline in             | ✘ a decline of             | 📌 Sự suy giảm → A DECLINE IN
+✔ a rise in                | ✘ a rise of                | 📌 Sự tăng → A RISE IN
+✔ a drop in                | ✘ a drop of                | 📌 Sự giảm → A DROP IN
+✔ a lack of                | ✘ a lack in                | 📌 Sự thiếu hụt → A LACK OF
+✔ a shortage of            | ✘ a shortage in            | 📌 Tình trạng thiếu → A SHORTAGE OF
+✔ a range of               | ✘ a range in               | 📌 Một loạt → A RANGE OF
+✔ a variety of             | ✘ a variety in             | 📌 Nhiều loại → A VARIETY OF
+✔ access the internet      | ✘ connect to internet     | 📌 Truy cập internet → ACCESS the internet
+✔ browse the internet      | ✘ search the internet     | 📌 Duyệt web → BROWSE; tìm kiếm = search
+✔ stream content           | ✘ watch online content    | 📌 Phát trực tuyến → STREAM
+✔ post online              | ✘ upload online           | 📌 Đăng lên mạng → POST (mạng xã hội)
+✔ go viral                 | ✘ become viral            | 📌 Lan truyền mạnh → GO viral
+✔ spread misinformation    | ✘ share wrong information | 📌 Lan truyền tin sai → SPREAD misinformation
+✔ digital divide           | ✘ technology gap          | 📌 Khoảng cách số → DIGITAL DIVIDE
+✔ online privacy           | ✘ internet privacy        | 📌 Quyền riêng tư trực tuyến → ONLINE privacy
+✔ cyber security           | ✘ internet security       | 📌 An ninh mạng → CYBER security
+✔ screen time              | ✘ phone time              | 📌 Thời gian dùng màn hình → SCREEN TIME
+✔ social networking        | ✘ social media-ing        | 📌 Mạng lưới xã hội → SOCIAL NETWORKING
+✔ remote work              | ✘ home work               | 📌 Làm việc từ xa → REMOTE WORK (homework = bài tập)
+✔ e-commerce               | ✘ online commerce         | 📌 Thương mại điện tử → E-COMMERCE
+✔ data protection          | ✘ data security           | 📌 Cả hai đúng; protection = bảo vệ khỏi lạm dụng
+✔ catch a cold             | ✘ get a cold              | 📌 Cả hai đúng; catch = chuẩn hơn
+✔ catch a disease          | ✘ take a disease          | 📌 Mắc bệnh → CATCH / GET
+✔ suffer from a disease    | ✘ have a disease          | 📌 Cả hai đúng; suffer from = chịu đựng bệnh mãn tính
+✔ recover from an illness  | ✘ heal from an illness    | 📌 Hồi phục → RECOVER FROM
+✔ undergo surgery          | ✘ take surgery            | 📌 Phẫu thuật → UNDERGO surgery
+✔ prescribe medicine       | ✘ recommend medicine      | 📌 Kê đơn thuốc → PRESCRIBE
+✔ take medicine            | ✘ drink medicine          | 📌 Uống thuốc → TAKE medicine
+✔ physical exercise        | ✘ body exercise           | 📌 Tập thể dục → PHYSICAL exercise
+✔ balanced diet            | ✘ healthy diet            | 📌 Cả hai đúng; balanced diet = cân bằng dinh dưỡng
+✔ infant mortality         | ✘ baby death rate         | 📌 Tỷ lệ tử vong trẻ sơ sinh → INFANT MORTALITY
+✔ chronic disease          | ✘ long disease            | 📌 Bệnh mãn tính → CHRONIC disease
+✔ sedentary lifestyle      | ✘ lazy lifestyle          | 📌 Lối sống ít vận động → SEDENTARY
+✔ mental well-being        | ✘ mental health           | 📌 Cả hai đúng; well-being = trạng thái tổng thể
+✔ nuclear family           | ✘ small family            | 📌 Gia đình hạt nhân (bố mẹ + con) → NUCLEAR
+✔ extended family          | ✘ big family              | 📌 Gia đình nhiều thế hệ → EXTENDED family
+✔ single-parent family     | ✘ one-parent family       | 📌 Gia đình đơn thân → SINGLE-PARENT
+✔ arrange a marriage       | ✘ plan a marriage         | 📌 Sắp xếp hôn nhân → ARRANGE
+✔ get divorced             | ✘ get separated           | 📌 Ly hôn (chính thức) → GET DIVORCED
+✔ bring up children        | ✘ grow up children        | 📌 Nuôi dạy con → BRING UP (không dùng grow up)
+✔ grow up                  | ✘ bring up (intransitive) | 📌 Lớn lên (tự mình) → GROW UP
+✔ household chores         | ✘ house work              | 📌 Việc nhà → HOUSEHOLD CHORES / housework
+✔ family bond              | ✘ family connection       | 📌 Sợi dây gia đình → FAMILY BOND
+✔ filial piety             | ✘ family respect          | 📌 Lòng hiếu thảo → FILIAL PIETY
+✔ social norms             | ✘ social rules            | 📌 Chuẩn mực xã hội → SOCIAL NORMS
+✔ community spirit         | ✘ community feeling       | 📌 Tinh thần cộng đồng → COMMUNITY SPIRIT
+✔ cultural differences     | ✘ cultural gaps           | 📌 Sự khác biệt văn hóa → CULTURAL DIFFERENCES
