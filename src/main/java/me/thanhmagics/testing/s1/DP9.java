@@ -9,7 +9,7 @@ import java.util.Scanner;
 
 public class DP9 {
     public static void main(String[] args) {
-        File file = new File(EllSystem5.PATH + "progressing/word-handing/pn.txt");
+        File file = new File(EllSystem5.PATH + "m3.txt");
 //        File output = new File(EllSystem5.PATH + "progressing/10kw-series/s2/10kw.txt");
         try {
             Scanner scanner = new Scanner(file);

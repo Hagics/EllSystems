@@ -48,7 +48,7 @@ public class RandomSystem5 {
             Renderer.println(242, "------------------------------------------------");
             if (property.index == systemProperty.words.size()) {
                 Renderer.println(242, "updated index from " + oldIndex + " to " + property.index + "!" +
-                        "(-" + (oldInroll - property.inRoll.size()) + "/" + property.inRoll.size() + ")");
+                        " (-" + (oldInroll - property.inRoll.size()) + "/" + property.inRoll.size() + ")");
                 oldInroll = property.inRoll.size();
             } else {
                 Renderer.println(242, "updated index from " + oldIndex + " to " + property.index + "!");

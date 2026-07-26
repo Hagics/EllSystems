@@ -9,7 +9,7 @@ import java.util.LinkedList;
 
 public class T10 {
     public static void main(String[] args) {
-        LinkedList<String> data = DataHandling.getData("progressing\\word-handing\\pn.txt");
+        LinkedList<String> data = DataHandling.getData("m3.txt");
         Collections.sort(data);
         for (String s : data) {
             System.out.println(s);

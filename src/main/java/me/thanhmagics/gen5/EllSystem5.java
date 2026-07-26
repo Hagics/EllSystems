@@ -58,7 +58,7 @@ public class EllSystem5 {
             return scanner.nextInt();
         } catch (Exception e) {
             LOGGER.log(Level.SEVERE, "Error reading menu input", e);
-            scanner.nextLine(); // Clear input buffer
+            scanner.nextLine();
             return -1;
         }
     }
