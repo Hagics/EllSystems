@@ -108,8 +108,11 @@ public abstract class Renderer {
             EllSystem5.data = new SystemProperty(fell, EllSystem5.currentType, EllSystem5.max, EllSystem5.min, EllSystem5.file, new RandomSystemProperty(), EllSystem5.fileName, EllSystem5.loader);
             RandomSystem5 randomSystem5 = new RandomSystem5(EllSystem5.data);
             println(118, "Fell: (" + fell.size() + "/" + words.size() + ")");
-            println(118, " ");
+            println(250, " ");
+            println(250, "Updating database...");
+            long start  = System.currentTimeMillis();
             updateDatabase(words,fell);
+            println(250, "Database updated in " + (System.currentTimeMillis() - start) + "ms");
             runPractice(fell, randomSystem5);
         } finally {
             scanner.close();

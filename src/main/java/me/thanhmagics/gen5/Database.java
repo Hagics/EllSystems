@@ -1,9 +1,7 @@
 package me.thanhmagics.gen5;
 
 import java.sql.*;
-import java.util.ArrayList;
-import java.util.List;
-import java.util.Optional;
+import java.util.*;
 
 public class Database implements AutoCloseable {
 
@@ -31,10 +29,7 @@ public class Database implements AutoCloseable {
         try (PreparedStatement ps = conn.prepareStatement("INSERT INTO words(origin) VALUES(?)")) {
             ps.setString(1, origin);
             ps.executeUpdate();
-        } catch (SQLException e) {
-            if (e.getMessage().contains("UNIQUE") || e.getMessage().contains("PRIMARY KEY"))
-                System.out.println("Word already exists: " + origin);
-        }
+        } catch (SQLException ignored) {}
     }
 
     public boolean deleteWord(String origin) {
@@ -77,6 +72,20 @@ public class Database implements AutoCloseable {
             throw new RuntimeException(e);
         }
         return list;
+    }
+
+    public Map<String,Integer> toMap() {
+        Map<String,Integer> rs = new HashMap<>();
+        try {
+            Statement st = conn.createStatement();
+            ResultSet resultSet = st.executeQuery("SELECT * FROM words");
+            while (resultSet.next()) {
+                rs.put(resultSet.getString("origin"), resultSet.getInt("level"));
+            }
+        } catch (SQLException e) {
+            throw new RuntimeException(e);
+        }
+        return rs;
     }
 
 

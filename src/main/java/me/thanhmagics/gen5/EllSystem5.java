@@ -6,9 +6,7 @@ import me.thanhmagics.gen5.properties.TestingProperty;
 
 import java.io.*;
 import java.nio.file.Paths;
-import java.util.LinkedList;
-import java.util.List;
-import java.util.Scanner;
+import java.util.*;
 import java.util.logging.Level;
 import java.util.logging.Logger;
 
@@ -73,9 +71,8 @@ public class EllSystem5 {
                 return;
             }
             initMinMax(scanner);
-            initMaxLevel(scanner);
             List<EWord5> words = WordLoader.init(file, min, max);
-            
+            initMaxLevel(scanner,words);
             currentType = switch (selected) {
                 case 0 -> PracticeType.VNE;
                 case 1 -> PracticeType.ENL;
@@ -163,8 +160,6 @@ public class EllSystem5 {
             println(250, " - id: " + tp.fileName);
             println(250, " - type: " + tp.type);
             println(250, " - size: " + tp.words.size());
-
-
         }
         println(250, "--------------------------");
     }
@@ -178,9 +173,8 @@ public class EllSystem5 {
                 return;
             }
             initMinMax(scanner);
-            initMaxLevel(scanner);
             List<EWord5> words = WordLoader.init(file, min, max);
-            
+            initMaxLevel(scanner,words);
             currentType = switch (selected) {
                 case 0 -> PracticeType.VNE;
                 case 1 -> PracticeType.ENL;
@@ -416,7 +410,26 @@ public class EllSystem5 {
         }
     }
 
-    private static void initMaxLevel(Scanner scanner) {
+    private static void initMaxLevel(Scanner scanner, List<EWord5> word5s) {
+        Map<Integer, Integer> levelCount = new HashMap<>();
+        List<String> words = new ArrayList<>();
+        for (EWord5 w : word5s)
+            words.add(w.origin);
+        for (int i = 0; i <= 5; i++)
+            levelCount.put(i,0);
+        EllSystem5.database.toMap().forEach((origin, level) -> {
+            if (words.contains(origin)) {
+                if (!levelCount.containsKey(level)) levelCount.put(level,0);
+                int oldCount = levelCount.get(level);
+                levelCount.replace(level, oldCount + 1);
+            }
+        });
+        println(48,"-_-_-_-_-_-_-_-_-_-_-_-_-_-");
+        levelCount.forEach((level,count) -> {
+            println(new StringColor(48, "Level "), new StringColor(51,String.valueOf(level)),
+                    new StringColor(48, ": "), new StringColor(51, String.valueOf(count)), new StringColor(48, " words remaining!"));
+        });
+        println(48,"-_-_-_-_-_-_-_-_-_-_-_-_-_-");
         println(154,"Enter Max Level...");
         try {
             String ml = scanner.next();
@@ -428,7 +441,7 @@ public class EllSystem5 {
             println(118, "Init Max Level Successfully! (maxLevel=" + maxLevel + ")");
         } catch (Exception e) {
             LOGGER.log(Level.WARNING, "Error initializing max level", e);
-            initMaxLevel(scanner);
+            initMaxLevel(scanner,word5s);
         }
     }
 
