@@ -10,9 +10,10 @@ import java.util.Map;
 public class T6 {
     public static void main(String[] args) {
         LinkedList<String> rs = new LinkedList<>();
-        LinkedList<String> s2 = DataHandling.getData("progressing\\Project26\\M2.txt", new DataHandling.StringHandler() {
+        LinkedList<String> s2 = DataHandling.getData("M3.txt", new DataHandling.StringHandler() {
             @Override
             public String handle(String string) {
+                rs.add(string.split(" ")[0]);
                 return string;
             }
         });

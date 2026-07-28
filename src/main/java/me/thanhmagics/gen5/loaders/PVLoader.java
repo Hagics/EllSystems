@@ -2,6 +2,7 @@ package me.thanhmagics.gen5.loaders;
 
 
 import me.thanhmagics.gen5.EWord5;
+import me.thanhmagics.gen5.EllSystem5;
 import me.thanhmagics.gen5.WordLoader;
 import me.thanhmagics.gen5.ewords.PVWord;
 
@@ -16,6 +17,9 @@ public class PVLoader extends WordLoader {
         if (meaning.startsWith(" ")) {
             meaning = meaning.substring(1);
         }
+        EllSystem5.database.addWord(origin.toLowerCase());
+        int level = EllSystem5.database.find(origin.toLowerCase());
+        if (level > EllSystem5.maxLevel) return null;
         return new PVWord(origin, meaning);
     }
 

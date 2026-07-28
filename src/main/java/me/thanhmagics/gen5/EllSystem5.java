@@ -19,15 +19,16 @@ public class EllSystem5 {
     private static final Logger LOGGER = Logger.getLogger(EllSystem5.class.getName());
     
     public static final String PATH = Paths.get(System.getProperty("user.dir"), 
-        "src", "main", "resources").toString() + File.separator;
+        "src", "main", "resources") + File.separator;
     
-    public static int min = 0, max = Integer.MAX_VALUE;
+    public static int min = 0, max = Integer.MAX_VALUE, maxLevel = Integer.MAX_VALUE;
     public static SystemProperty data = null;
     public static File file;
     public static Scanner scanner = new Scanner(System.in);
     public static Renderer renderer;
     public static PracticeType currentType;
     public static String fileName, loader = null;
+    public static Database database = new Database("database.db");
 
     public static void main(String[] args) {
         try {
@@ -72,6 +73,7 @@ public class EllSystem5 {
                 return;
             }
             initMinMax(scanner);
+            initMaxLevel(scanner);
             List<EWord5> words = WordLoader.init(file, min, max);
             
             currentType = switch (selected) {
@@ -176,6 +178,7 @@ public class EllSystem5 {
                 return;
             }
             initMinMax(scanner);
+            initMaxLevel(scanner);
             List<EWord5> words = WordLoader.init(file, min, max);
             
             currentType = switch (selected) {
@@ -410,6 +413,22 @@ public class EllSystem5 {
         } catch (Exception e) {
             LOGGER.log(Level.WARNING, "Error initializing min-max", e);
             initMinMax(scanner);
+        }
+    }
+
+    private static void initMaxLevel(Scanner scanner) {
+        println(154,"Enter Max Level...");
+        try {
+            String ml = scanner.next();
+            if (ml.equalsIgnoreCase("max")) {
+                println(118, "Init Max Level Successfully!");
+                return;
+            }
+            maxLevel = Integer.parseInt(ml);
+            println(118, "Init Max Level Successfully! (maxLevel=" + maxLevel + ")");
+        } catch (Exception e) {
+            LOGGER.log(Level.WARNING, "Error initializing max level", e);
+            initMaxLevel(scanner);
         }
     }
 

@@ -130,5 +130,10 @@
             <scope>system</scope>
             <systemPath>C:/Users/ThanhMagics/Downloads/jlayer-1.0.1.jar</systemPath>
         </dependency>
+        <dependency>
+            <groupId>org.xerial</groupId>
+            <artifactId>sqlite-jdbc</artifactId>
+            <version>3.53.2.1</version>
+        </dependency>
     </dependencies>
 </project>

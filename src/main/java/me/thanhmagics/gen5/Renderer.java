@@ -99,11 +99,17 @@ public abstract class Renderer {
                 println(250, " ");
                 println(250, " ");
             }
+            System.out.println("-1 ?");
+            String answer = scanner.nextLine();
+            if (answer.equals("-1")) {
+                if (last != null) fell.remove(last);
+            }
             this.words = fell;
             EllSystem5.data = new SystemProperty(fell, EllSystem5.currentType, EllSystem5.max, EllSystem5.min, EllSystem5.file, new RandomSystemProperty(), EllSystem5.fileName, EllSystem5.loader);
             RandomSystem5 randomSystem5 = new RandomSystem5(EllSystem5.data);
             println(118, "Fell: (" + fell.size() + "/" + words.size() + ")");
             println(118, " ");
+            updateDatabase(words,fell);
             runPractice(fell, randomSystem5);
         } finally {
             scanner.close();
@@ -212,5 +218,17 @@ public abstract class Renderer {
             if (elements.size() > passed) return false;
         }
         return true;
+    }
+
+    public static void updateDatabase(List<EWord5> words, List<EWord5> fell) {
+        for (EWord5 word : words) {
+            if (fell.contains(word)) {
+                EllSystem5.database.shift(word.origin,-1);
+            } else {
+                EllSystem5.database.shift(word.origin,1);
+            }
+        }
+        System.out.println("Database updated successfully!");
+
     }
 }

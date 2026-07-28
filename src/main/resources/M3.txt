@@ -65,7 +65,7 @@ prophet noun:nhà tiên tri:/ˈprɒfɪt/
 proportion noun:tỷ lệ:/prəˈpɔːʃn/
 proposal noun:đề xuất:/prəˈpəʊzl/
 propose verb:đề xuất, cầu hôn:/prəˈpəʊz/
-pros noun:ưu điểm:null
+pros noun:ưu điểm:/prəu/
 prose noun:văn xuôi:/prəʊz/
 prospect noun:triển vọng:/ˈprɒspekt/
 prosperous adjective:thịnh vượng:/ˈprɒspərəs/
@@ -211,7 +211,6 @@ scheme noun:kế hoạch, âm mưu:/skiːm/
 scold verb:mắng:/skəʊld/
 scooter noun:xe tay ga:/ˈskuːtə(r)/
 scramble verb:tranh giành, chen lấn:/ˈskræmbl/
-scrambled adjective:khuấy đều:null
 scratch noun,verb:vết xước. gãi:/skrætʃ/
 screening noun:buổi chiếu, sự sàng lọc:/ˈskriːnɪŋ/
 scribble verb:viết nguệch ngoạc:/ˈskrɪbl/
@@ -248,11 +247,10 @@ shield noun,verb:tấm khiên. che chắn:/ʃiːld/
 shine verb:tỏa sáng, đánh bóng:/ʃaɪn/
 shipment noun:lô hàng:/ˈʃɪpmənt/
 shiver noun,verb:cơn rùng mình. run rẩy:/ˈʃɪvə(r)/
-shoplifting noun:sự ăn trộm trong cửa hàng:/ˈʃɒplɪftɪŋ/
+shoplifting noun:ăn trộm trong cửa hàng:/ˈʃɒplɪftɪŋ/
 shore noun:bờ:/ʃɔː(r)/
 shortage noun:sự thiếu hụt:/ˈʃɔːtɪdʒ/
 shower noun,verb:vòi sen, mưa rào. tắm:/ˈʃaʊə(r)/
-shown verb:được cho thấy:/ʃəʊn/
 shrimp noun:tôm:/ʃrɪmp/
 sibling noun:anh chị em ruột:/ˈsɪblɪŋ/
 signing noun:sự ký kết:/ˈsaɪnɪŋ/
@@ -272,7 +270,7 @@ slide noun,verb:cầu trượt. trượt:/slaɪd/
 slight adjective:nhẹ:/slaɪt/
 slim adjective:thon thả:/slɪm/
 slip noun,verb:sơ suất. trượt ngã:/slɪp/
-slippers noun:dép lê:null
+slipper noun:dép lê:/ˈslɪpər/
 slope noun:dốc:/sləʊp/
 sloppy adjective:cẩu thả:/ˈslɒpi/
 smile noun,verb:nụ cười. mỉm cười:/smaɪl/
@@ -341,7 +339,7 @@ stitch noun,verb:mũi khâu. khâu:/stɪtʃ/
 stocking noun:tất dài:/ˈstɒkɪŋ/
 stool noun:ghế đẩu:/stuːl/
 stove noun:bếp:/stəʊv/
-stranded adjective:mắc kẹt:null
+stranded adjective:mắc kẹt (vì không có phương tiện):/ˈstræn.dɪd/
 strangle verb:bóp cổ:/ˈstræŋɡl/
 straw noun:ống hút, rơm:/strɔː/
 stretch noun,verb:đoạn. kéo giãn:/stretʃ/
@@ -371,9 +369,7 @@ superstition noun:mê tín dị đoan:/ˌsuːpəˈstɪʃn/
 supper noun:bữa tối:/ˈsʌpə(r)/
 suppose verb:cho rằng:/səˈpəʊz/
 surf verb:lướt sóng:/sɜːf/
-surfing noun:lướt sóng:/ˈsɜːfɪŋ/
 surname noun:họ:/ˈsɜːneɪm/
-surprise noun,verb:sự bất ngờ. làm ngạc nhiên:/səˈpraɪz/
 susceptible adjective:dễ bị:/səˈseptəbl/
 swallow noun,verb:chim én. nuốt:/ˈswɒləʊ/
 swan noun:thiên nga:/swɒn/
@@ -574,4 +570,4 @@ yacht noun:du thuyền:/jɒt/
 yawn noun,verb:cái ngáp. ngáp:/jɔːn/
 yearn verb:khao khát:/jɜːn/
 yogurt noun:sữa chua:/ˈjɒɡət/
-zipper noun:khóa kéo:/ˈzɪpə(r)/
+zipper noun:khóa kéo:/ˈzɪpə(

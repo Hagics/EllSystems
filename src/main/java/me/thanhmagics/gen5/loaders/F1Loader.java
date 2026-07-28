@@ -1,6 +1,7 @@
 package me.thanhmagics.gen5.loaders;
 
 import me.thanhmagics.gen5.EWord5;
+import me.thanhmagics.gen5.EllSystem5;
 import me.thanhmagics.gen5.WordLoader;
 import me.thanhmagics.gen5.ewords.F1Word;
 import org.jetbrains.annotations.NotNull;
@@ -15,12 +16,16 @@ public class F1Loader extends WordLoader {
 
     @Override
     public EWord5 initWord(String line) {
+
         try {
             String meaning = line.split(":")[1];
             if (meaning.startsWith(" ")) {
                 meaning = meaning.substring(1);
             }
             F1Word f1Word = getF1Word(line, meaning);
+            EllSystem5.database.addWord(f1Word.origin.toLowerCase());
+            int level = EllSystem5.database.find(f1Word.origin.toLowerCase());
+            if (level > EllSystem5.maxLevel) return null;
             return f1Word;
         } catch (Exception e) {
             LOGGER.log(Level.WARNING, "Error parsing line: " + line, e);
