@@ -55,7 +55,7 @@ public class Database implements AutoCloseable {
     public void shift(String origin, int delta) {
         try (PreparedStatement ps = conn.prepareStatement(
                 "UPDATE words SET level = ? WHERE origin = ?")) {
-            ps.setInt(1, find(origin) + delta);
+            ps.setInt(1, Math.max(find(origin) + delta, 0));
             ps.setString(2, origin);
             if (ps.executeUpdate() == 0) System.out.println("Word not found: " + origin);
         } catch (SQLException e) {
@@ -96,9 +96,9 @@ public class Database implements AutoCloseable {
 
     public static void main(String[] args) {
         Database database = new Database("database.db");
-        for (String s : database.toList()) {
-            database.shift(s, -10);
-            System.out.println(s + " : " + database.find(s));
-        }
+//        for (String s : database.toList()) {
+//            database.shift(s, -10);
+//            System.out.println(s + " : " + database.find(s));
+//        }
     }
 }

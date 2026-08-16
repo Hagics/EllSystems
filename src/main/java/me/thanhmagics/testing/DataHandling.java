@@ -47,7 +47,9 @@ public class DataHandling {
         try {
             Scanner scanner = new Scanner(new File(EllSystem5.PATH + path));
             while (scanner.hasNextLine()) {
-                rs.add(handler.handle(scanner.nextLine()));
+                String line = handler.handle(scanner.nextLine());
+                if (line != null)
+                    rs.add(line);
             }
         } catch (Exception e) {
             e.printStackTrace();
